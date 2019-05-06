@@ -10,9 +10,9 @@ www.vorlaender-lw.tk/
 
 www.vorlaender.tk/
 
-- With node backend to forward messages from the websites contact formular to my parents. Contact Formular and Node Backend implement reCAPTCHA and simple threat/spam handling. https://www.google.com/recaptcha/
+- With website contact formular that forwards mails to my parents. Contact form and Node backend implement reCAPTCHA and simple threat/spam handling. https://www.google.com/recaptcha/
 
-- Working with SendGrid to send up to 100 mails per day using my own mail domain name without setting up a SMTP service
+- Working with SendGrid to send up to 100 mails per day using my own mail domain name without setting up a SMTP service manually
 https://sendgrid.com/
 
 - Using free LetsEncrypt certificates to fully encrypt communication over HTTPS and the POST requests to the node backend. 
