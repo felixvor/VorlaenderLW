@@ -4,13 +4,8 @@ Feel free to visit at
 
 https://www.vorlaender-lw.de/
 
-#### Alternative domains:
 
-www.vorlaender-lw.tk/
-
-www.vorlaender.tk/
-
-- With website contact formular that forwards mails to my parents. Contact form and Node backend implement reCAPTCHA and simple threat/spam handling. https://www.google.com/recaptcha/
+- Contact form and Node backend implement reCAPTCHA and simple threat/spam handling. https://www.google.com/recaptcha/
 
 - Working with SendGrid to send up to 100 mails per day using my own mail domain name without setting up a SMTP service manually
 https://sendgrid.com/
@@ -22,4 +17,4 @@ https://letsencrypt.org/
 
 - Implements a Google Map Location without registering an API using the tool https://www.embedgooglemap.net/
 
-- Runs on an Ubuntu Apache Server. Patiently created using PuTTy.
+- Runs on an Ubuntu Apache Server. Patiently deployed using PuTTy.
